@@ -1,0 +1,4 @@
+name = "TestRepo"
+uuid = "a2638802-b5b3-44f6-9b40-9691216440e8"
+authors = ["Chayan Datta <chayan.datta@juliahub.com>"]
+version = "0.1.0"
